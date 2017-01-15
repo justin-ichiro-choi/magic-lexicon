@@ -1,0 +1,27 @@
+html {
+    background: url("imgs/background.jpg") no-repeat center center fixed;
+    background-size:cover;
+}
+
+h1 {
+    font-size: 50px; 
+}
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header {
+    background-color: lightblue;
+    border-style: solid 2px black;
+    border-radius: 4px;
+    margin: auto;
+    width: 550px;
+    text-align: center;
+    padding: 5px
+}
+
+#searchWindow {
+    background-color:slategray;
+    border-style: solid 6px slategray;
+}
