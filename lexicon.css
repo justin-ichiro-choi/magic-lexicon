@@ -13,15 +13,21 @@ body {
 
 header {
     background-color: lightblue;
-    border-style: solid 2px black;
+    border-style: solid 6px black;
     border-radius: 4px;
     margin: auto;
-    width: 550px;
+    width: 500px;
+    height: 100px;
     text-align: center;
-    padding: 5px
 }
 
-#searchWindow {
+#window {
     background-color:slategray;
-    border-style: solid 6px slategray;
+    border-style: solid 6px black;
+    border-radius: 4px;
+    width: 400px;
+    height: 600px;
+    margin: auto;
+    margin-top: 10px;
+
 }
