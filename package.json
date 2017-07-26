@@ -1,0 +1,22 @@
+{
+  "name": "mtgapi",
+  "version": "1.0.0",
+  "description": "Supports the wrapper for MTG API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justin-ichiro-choi/magic-lexicon.git"
+  },
+  "author": "Justin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justin-ichiro-choi/magic-lexicon/issues"
+  },
+  "homepage": "https://github.com/justin-ichiro-choi/magic-lexicon#readme",
+  "dependencies": {
+    "mtgsdk": "^0.3.0"
+  }
+}
